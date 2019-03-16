@@ -1,0 +1,45 @@
+<IfModule mod_rewrite.c>
+ErrorDocument 404 http://localhost/laily/error-brow.html
+RewriteEngine on
+
+RewriteRule ^masuk$ login-siswa.php [L]
+RewriteRule ^setting$ setting.php [L]
+RewriteRule ^masuk-admin$ login-admin.php [L]
+RewriteRule ^keluar$ logout.php [L]
+RewriteRule ^keluar-siswa$ logout-siswa.php [L]
+RewriteRule ^ubah-password$ edit-password.php [L]
+RewriteRule ^simpan-admin$ simpan-admin.php [L]
+RewriteRule ^edit-admin$ edit-admin.php [L]
+RewriteRule ^edit-jurusan$ edit-jurusan.php [L]
+RewriteRule ^edit-setting$ edit-setting.php [L]
+RewriteRule ^edit-bantuan$ edit-bantuan.php [L]
+RewriteRule ^edit-tahun$ edit-tahun.php [L]
+RewriteRule ^edit-matkul$ edit-matkul.php [L]
+RewriteRule ^edit-kelas$ edit-kelas.php [L]
+RewriteRule ^edit-asisten$ edit-asisten.php [L]
+RewriteRule ^edit-asisten-kelas$ edit-asisten-kelas.php [L]
+RewriteRule ^update-password$ update-password.php [L]
+RewriteRule ^list-admin$ list-admin.php [L]
+RewriteRule ^proses-masuk$ login_proses.php [L]
+RewriteRule ^proses-mahasiswa$ login_siswa.php [L]
+RewriteRule ^dashboard-admin$ dashboard-admin.php [L]
+RewriteRule ^dashboard-siswa$ dashboard-siswa.php [L]
+RewriteRule ^tahun-ajar$ tahun-ajar.php [L]
+RewriteRule ^jurusan$ jurusan.php [L]
+RewriteRule ^matkul$ matkul.php [L]
+RewriteRule ^Kelas$ kelas.php [L]
+RewriteRule ^asisten$ asisten.php [L]
+RewriteRule ^asisten-kelas$ asisten-kelas.php [L]
+RewriteRule ^nilai-terbaik$ asisten-nilai-terbaik.php [L]
+RewriteRule ^nilai-favorit$ asisten-nilai-favorit.php [L]
+RewriteRule ^simpan-nilai$ simpan-nilai.php [L]
+RewriteRule ^mahasiswa$ mahasiswa.php [L]
+RewriteRule ^form-mahasiswa$ form-import.php [L]
+RewriteRule ^cetak-nilai-terbaik$ cetak-terbaik.php [L]
+RewriteRule ^cetak-nilai-favorit$ cetak-favorit.php [L]
+RewriteRule ^bantuan$ bantuan.php [L]
+
+
+
+Options All -Indexes
+</IfModule>

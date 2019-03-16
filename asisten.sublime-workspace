@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ke",
+				"kelas_mhs"
+			],
+			[
+				"e",
+				"enctype\tAttr"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"kode",
+				"kode_akses"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/asisten/update-setting.php",
+		"/C/xampp/htdocs/asisten/.htaccess",
+		"/C/xampp/htdocs/asisten/edit-setting.php",
+		"/C/xampp/htdocs/asisten/simpan-bantuan.php",
+		"/C/xampp/htdocs/asisten/asisten-nilai-terbaik.php",
+		"/C/xampp/htdocs/asisten/simpan-nilai.php",
+		"/C/xampp/htdocs/asisten/header.php",
+		"/C/xampp/htdocs/asisten/kelas.php",
+		"/C/xampp/htdocs/asisten/bantuan.php",
+		"/C/xampp/htdocs/asisten/hapus-bantuan.php",
+		"/C/xampp/htdocs/asisten/simpan-kelas.php",
+		"/C/xampp/htdocs/asisten/asisten-kelas.php",
+		"/C/xampp/htdocs/asisten/list-admin.php",
+		"/C/xampp/htdocs/asisten/login-admin.php",
+		"/C/xampp/htdocs/asisten/setting.php",
+		"/C/xampp/htdocs/asisten/dashboard-siswa.php",
+		"/C/xampp/htdocs/asisten/login-siswa.php",
+		"/C/xampp/htdocs/asisten/asisten.php",
+		"/D/Dataku/Skripsi/Projek/Squence Diagram.svg",
+		"/C/xampp/htdocs/asisten/spk-saw.php",
+		"/C/xampp/htdocs/asisten/mahasiswa.php",
+		"/C/xampp/htdocs/asisten/header-mahasiswa.php",
+		"/C/xampp/htdocs/asisten/login_proses.php",
+		"/C/xampp/htdocs/asisten/footer.php",
+		"/C/xampp/htdocs/asisten/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/asisten/assets/css/bootstrap.min.css",
+		"/C/xampp/htdocs/asisten/assets/css/demo.css",
+		"/C/xampp/htdocs/asisten/assets/css/demo.css.map",
+		"/C/xampp/htdocs/asisten/assets/css/main.css",
+		"/C/xampp/htdocs/asisten/logout-siswa.php",
+		"/C/xampp/htdocs/asisten/session-siswa.php",
+		"/C/xampp/htdocs/asisten/update-kelas.php",
+		"/C/xampp/htdocs/asisten/tahun-ajar.php",
+		"/C/xampp/htdocs/asisten/asisten-nilai.php",
+		"/C/xampp/htdocs/asisten/jurusan.php",
+		"/C/xampp/htdocs/asisten/edit-kelas.php",
+		"/C/xampp/htdocs/asisten/login/css/main.css",
+		"/C/xampp/htdocs/Asistenku/dashboard-admin.php",
+		"/D/Aplikasi/L210_WW_WIN_3793_42.exe",
+		"/D/Dataku/Skripsi/Projek/Use Case/index.html",
+		"/D/Dataku/Skripsi/Projek/Use Case/Use Case Diagram2.svg",
+		"/D/Dataku/Skripsi/Projek/Use Case/Sequence Diagram1 .vpp",
+		"/D/Dataku/Skripsi/Projek/Use Case/Use case.jpg",
+		"/C/xampp/htdocs/asisten/session.php",
+		"/D/Dataku/Skripsi/Projek/Squence Diagram/Admin/Login/Administrator Login.svg",
+		"/D/Dataku/Skripsi/Projek/Squence Diagram/Jurusan/Hapus/Hapus.jpg"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-left",
+			"navbar",
+			"color",
+			"navbar-menu",
+			"notifications",
+			"navbar",
+			"form",
+			"$q",
+			"input100",
+			"nilai akahir"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "asisten.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
